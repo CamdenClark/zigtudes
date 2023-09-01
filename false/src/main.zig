@@ -1,1 +1,3 @@
-pub fn main() !void {}
+pub fn main() u8 {
+    return 1;
+}
